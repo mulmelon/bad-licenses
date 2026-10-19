@@ -121,7 +121,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
 - [**Watermelon Public License (WPL)**](https://github.com/mulmelon/WPL)
 
-  A custom copyleft software license created in 2026 that requires distributed derivative works to remain under the same license. Despite its legal language, it contains statements about slicing watermelons, computers exploding, and the author being unlikely to update the license because "writing legalese is an absolute nightmare." Its legal enforceability and compatibility with established licenses remain untested.
+  A custom copyleft license that requires distributed derivative works to remain under WPL, but fails to clearly define the scope of its copyleft and source-code disclosure requirements. It also lacks explicit termination and patent provisions. Despite attempting to function as a serious software license, it includes legally irrelevant statements about watermelons and computers exploding.
   
 * **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions](YOLO-WTFPL-SEX)**
 
