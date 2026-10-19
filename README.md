@@ -123,8 +123,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   A custom copyleft license that requires distributed derivative works to remain under WPL, but fails to clearly define the scope of its copyleft and source-code disclosure requirements. It also lacks explicit termination and patent provisions. Despite attempting to function as a serious software license, it includes legally irrelevant statements about watermelons and computers exploding.
 
-* **[My Name is Nobody](https://github.com/mulmelon/MNiN/)**
-  
+* **[My Name is Nobody](https://github.com/mulmelon/MNiN/)** <br>
   Only people with the name "Nobody" could modify, copy, or redistribute.
   
 * **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions](YOLO-WTFPL-SEX)**
